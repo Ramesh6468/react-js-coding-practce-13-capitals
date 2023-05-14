@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.bgContainer {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cardContainer {
+  background-color: #f8fafc;
+  padding: 40px;
+  border-radius: 20px;
+}
+.title {
+  color: #000000;
+}
+.inputContainer {
+  display: flex;
+}
+.capital {
+  color: #000000;
+}
+.option {
+  color: #000000;
+}
+.question {
+  color: #323f4b;
+}
+.answer {
+    color: #1e293b;
+    font-size: 25px;
+    font-weight: bold;
+}
